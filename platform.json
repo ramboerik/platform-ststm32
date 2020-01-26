@@ -75,7 +75,7 @@
     "framework-arduinoststm32": {
       "type": "framework",
       "optional": true,
-      "version": "~3.10700.0"
+      "version": "https://github.com/ramboerik/Arduino_Core_STM32"
     },
     "framework-arduinoststm32-maple": {
       "type": "framework",
